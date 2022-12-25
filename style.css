@@ -1,0 +1,37 @@
+body {
+    background-image: url('images/image2.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    height: 1000px;
+}
+nav {
+    width: 1600px;
+    height: 70px;
+    margin-left: -10px;
+    margin-top: -15px;
+    background-color: black;
+}
+img {
+    width: 100px;
+    height: 50px;
+}
+li {
+    display: inline-block;
+    color: white;
+    margin: 10px;
+    margin-top: -10px;
+    font-size: 30px;
+  }
+div h1{
+    font-size: 7rem;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+div p {
+    margin-left: 50px;
+    font-size: 20px;
+    width: 500px;
+}
+#image {
+    margin-top: 10px;;
+}
